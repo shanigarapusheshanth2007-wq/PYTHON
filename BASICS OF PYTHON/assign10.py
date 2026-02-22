@@ -18,3 +18,4 @@ print("hello" \
 "")
 print("'")
 print("\f")
+print(hex(255))
