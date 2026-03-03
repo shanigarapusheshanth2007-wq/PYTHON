@@ -10,6 +10,6 @@ for i in range(2,5):
     else:
         print(i-1)
         break
-    #r=(s-26)%26
-    #q=(s-26)//26
-    #print(chr(q+65),chr(r+64))
+    r=(s-26)%26
+    q=(s-26)//26
+    print(chr(q+65),chr(r+64))
