@@ -1,1 +1,21 @@
 print(10>11)
+print(bool('Hello'))
+print(bool(15))
+s=""
+print(bool(s))
+y="nan"
+print(bool(y))
+a=0
+b=-1
+print(bool(a),bool(b))
+print(bool(True))
+'''
+false statments
+bool(False)
+bool(None)
+bool(0)
+bool("")
+bool(())
+bool([])
+bool({})
+'''

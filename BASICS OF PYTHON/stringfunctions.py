@@ -1,4 +1,4 @@
-Docstring for PYTHON.PYTHON.BASICS OF PYTHON.stringfunctions
+'''Docstring for PYTHON.PYTHON.BASICS OF PYTHON.stringfunctions
 s="SHeshYanana"
 print(s.upper())
 print(s.lower())
@@ -29,7 +29,7 @@ s="sheshi"
 print(s.capitalize())
 s="SHESHI"
 print(s.casefold())
-case fold is same as lower but the main applicarion is
+#case fold is same as lower but the main applicarion is
 s1 = "ß"        # German sharp S
 print(s1.lower())
 print(s1.casefold())
@@ -175,4 +175,4 @@ print(x.rpartition("banana"))#('it is a banana,i love banana,i hate ', 'banana',
 #rsplit is same as split but string.rsplit(separator, maxsplit) we can specify 
 #from right side that how many splits
 #strip rstrip lstrip
-x=""
+x'''
